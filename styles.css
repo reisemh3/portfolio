@@ -1,0 +1,33 @@
+/*      GENERAL     */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+h1 {
+    font-family: 'Crete Round', serif;
+    font-size: 45px;
+    color: #444;
+}
+
+.orange {
+    color: #ff7100;
+}
+
+/*      HEADER       */
+header {
+    height: 120px;
+}
+
+header h1 {
+    float: left;
+}
+
+header nav {
+    float: right;
+}
